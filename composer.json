@@ -1,0 +1,14 @@
+{
+    "name": "sandnes/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sandnes-green",
+            "email": "sandnes@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
